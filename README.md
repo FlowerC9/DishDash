@@ -10,8 +10,8 @@ A distributed message-based food ordering system developed with RabbitMQ, Node.j
   <a href="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg">
     <img alt="RabbitMQ" src = "https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" height=50 width=318>
   </a>
-  <a href="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png">
-    <img alt="Docker" src = "https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" height=50 width=58>
+  <a href="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/06/docker.png?fit=1024%2C819&ssl=1">
+    <img alt="Docker" src = "https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/06/docker.png?fit=1024%2C819&ssl=1" height=50 width=58>
   </a>
   <br><br>
 </p>
